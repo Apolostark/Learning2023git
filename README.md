@@ -12,3 +12,6 @@ Please behave and add good code xd
 
  Anyone can contribute, just chill.
 
+# Authors section
+
+Apolostark

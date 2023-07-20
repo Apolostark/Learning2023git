@@ -2,13 +2,13 @@
 
 Testing and learning Git.
 
-code of conduct.
+# code of conduct.
 
 Please behave and add good code xd
 
 
 
- contribution guidelines.
+#  contribution guidelines.
 
  Anyone can contribute, just chill.
 
